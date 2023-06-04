@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(255, 0, 234);
+    padding: 20px;
+    padding-bottom: 70px;
+}
+#listitem{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+#listitem a{
+    text-decoration: none;
+}
+#welcome{
+    text-align: center;
+    padding: 40px;
+}
+h1{
+    color: rgb(195, 43, 226);
+}
